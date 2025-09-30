@@ -1,0 +1,16 @@
+{
+  "login": "உள்நுழைக",
+  "dashboard": "டாஷ்போர்டு",
+  "securityDashboard": "பாதுகாப்பு டாஷ்போர்டு",
+  "hrAdminDashboard": "மனித வள பரிபாலன டாஷ்போர்டு",
+  "executiveDashboard": "நிர்வாக டாஷ்போர்டு",
+  "managerDashboard": "மேலாளர் டாஷ்போர்டு",
+  "invalidQR": "தவறான QR குறியீடு",
+  "qrScanError": "QR குறியீடு ஸ்கேன் செய்யும் பிழை",
+  "passId": "பாஸ் ஐடி",
+  "passType": "பாஸ் வகை",
+  "status": "நிலை",
+  "timestamp": "நேர முத்திரை",
+  "logout": "வெளியேறு",
+  "loginFailed": "உள்நுழைவு தோல்வியடைந்தது"
+}

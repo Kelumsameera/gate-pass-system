@@ -1,0 +1,16 @@
+{
+  "login": "Login",
+  "dashboard": "Dashboard",
+  "securityDashboard": "Security Dashboard",
+  "hrAdminDashboard": "HR Admin Dashboard",
+  "executiveDashboard": "Executive Dashboard",
+  "managerDashboard": "Manager Dashboard",
+  "invalidQR": "Invalid QR Code",
+  "qrScanError": "Error scanning QR code",
+  "passId": "Pass ID",
+  "passType": "Pass Type",
+  "status": "Status",
+  "timestamp": "Timestamp",
+  "logout": "Logout",
+  "loginFailed": "Login failed"
+}
